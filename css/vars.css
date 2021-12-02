@@ -1,0 +1,22 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  /* --main-text-color: #000; */
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+  --first-brand-color: #ffdc38;
+  /* --second-brand-color: #d10127; */
+  /* --second-brand-color: #ff002f; */
+  --second-brand-color: red;
+  --third-brand-color: #cbedf7;
+
+  --main-font:  'Libre Franklin';
+  --title-font:  'Libre Franklin Bold';
+
+  font-size: 62.5%;
+}

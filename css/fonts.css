@@ -1,0 +1,34 @@
+
+@font-face {
+    font-family: 'Libre Franklin Bold';
+    src: url('../fonts/LibreFranklin-Bold.eot');
+    src: url('../fonts/LibreFranklin-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/LibreFranklin-Bold.woff2') format('woff2'),
+        url('../fonts/LibreFranklin-Bold.woff') format('woff'),
+        url('../fonts/LibreFranklin-Bold.ttf') format('truetype'),
+        url('../fonts/LibreFranklin-Bold.svg#LibreFranklin-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('../fonts/LibreFranklin-Light.eot');
+    src: url('../fonts/LibreFranklin-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/LibreFranklin-Light.woff2') format('woff2'),
+        url('../fonts/LibreFranklin-Light.woff') format('woff'),
+        url('../fonts/LibreFranklin-Light.ttf') format('truetype'),
+        url('../fonts/LibreFranklin-Light.svg#LibreFranklin-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+
+
