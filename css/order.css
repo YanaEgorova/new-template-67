@@ -78,6 +78,16 @@
     bottom: -2rem;
     left: 1rem;
 }
+
+
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+  -webkit-text-fill-color: var(--main-text-color) !important;
+}
+
+
+
 ::-webkit-input-placeholder {
     color: var(--main-text-color);
 }
