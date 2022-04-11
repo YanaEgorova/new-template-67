@@ -6,7 +6,7 @@
 .products {
     padding: 3rem 0 5rem;
     text-align: center;
-    z-index: 99;
+    /* z-index: 99; */
     position: relative;
 }
 .sub-title__box {
